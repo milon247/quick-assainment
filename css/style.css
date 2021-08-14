@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+border-bottom: solid 1px #939090;
+}
+.header-content{
+
+overflow: hidden;
+
+width: 90%;
+
+margin-left: 5%;
+}
+.logo{
+
+width: 20%;
+}
+.logo img{width: 50%;float: left;}
+nav{width: 30%;float: right;padding-top: 15px;padding-bottom: 15px;}
+nav ul{
+
+overflow: hidden;
+
+list-style: none;
+}
+nav ul li{
+    
+float: left;
+    
+margin-right: 40px;
+    
+font-size: 20px;
+    
+text-transform: capitalize;
+}
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content h1{
+
+color: #008AFF;
+
+font-size: 50px;
+
+}
+.content p{
+
+font-size: 30px;
+
+margin-top: 30px;
+}
+.content img{
+    
+width: 90%;
+    
+margin-top: 30px;
+}
+.content h1:first-child{
+    color: black;
+    margin-top: 30px;
+
+}
+.main-content{
+    width: 60%;
+    overflow: hidden;
+    margin-left: 20%;
+}
+.left-content{
+
+width: 45%;
+
+float: left;
+}
+.left-content h1{
+
+font-size: 70px;
+
+text-align: right;
+
+color: red;
+}
+.left-content p{
+
+text-align: right;
+}
+.right-content{
+
+width: 45%;
+
+float: right;
+}
+.right-content h1{
+    
+float: right;
+    
+color: #434242;
+    
+font-size: 50px;
+}
+
+.feature{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+}
+.feature-one{
+
+width: 28%;
+
+text-align: center;
+
+float: left;
+
+background-color: #FDEBED;
+
+padding: 50px 20px;
+}
+.feature-one img{
+    
+width: 100%;
+}
+.feature-one h3{
+    
+text-align: left;
+color: #051944;
+}
+.feature-one p{
+    
+text-align: left;
+    
+color: #051F55;
+}.feature-two{
+    padding: 50px 20px;
+    width: 28%;
+    float: left;
+    margin-left: 5%;
+    background-color: #EBF9F4;
+}
+.feature-two img{
+    width: 100%;
+}
+.feature-two h3{
+    text-align: left;
+    color: #051944;
+}
+.feature-two p{
+    text-align: left;
+    
+color: #051F55;
+    
+}.feature-three{
+    padding: 50px 20px;
+    width: 28%;
+    float: right;
+    text-align: left;
+    background-color: #FEF8E8;
+}
+.feature-three img{
+    width: 100%;
+
+} 
+.feature-three h3{
+    text-align: left;
+    color: #051944;
+}
+.feature-three p{
+    text-align: left;
+    
+color: #051F55;
+}
+footer{
+
+padding: 25px 0px;
+
+background-color: #008AFF;
+
+text-align: center;
+}
+footer p{
+
+color: #d5d5d5;
+
+display: inline;
+}
+footer h5{
+    
+color: #fff;
+    
+display: inline;
+    
+margin: 0px 16px;
+}
